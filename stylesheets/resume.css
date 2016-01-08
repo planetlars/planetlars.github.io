@@ -2,4 +2,10 @@
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
+  
+}
+.name-address p {
+  font-size: 12px;
+  font-family: 'Shift', sans-serif;
+  margin-bottom: 3px;
 }
